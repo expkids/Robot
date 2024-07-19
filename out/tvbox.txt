@@ -1,7 +1,7 @@
 {
 //Update:2024-07-19 20:19:04.325125
 
-"spider":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;97796A79A781055669F2D5442439DC5F",
+"spider":"https://github.com/BryanHK/TVBox2/raw/main/Yoursmile.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
